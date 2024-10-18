@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EjemplosUI</string>
+    <string name="Name">Name</string>
+    <string name="Description">Description</string>
+    <string name="PhoneNumber">PhoneNumber</string>
+    <string name="website">website</string>
+    <string name="OpeningTime">Opening Time</string>
+    <string name="ClosingTime">Closing Time</string>
+    <string name="Activities">Activities</string>
+    <string name="Sports">Sports</string>
+    <string name="ChildrenPark">Children\'s Park</string>
+    <string name="Bar">Bar</string>
+    <string name="Save">Save</string>
+    <string name="Pets">Pets</string>
+</resources>
